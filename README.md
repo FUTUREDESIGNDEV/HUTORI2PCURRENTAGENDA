@@ -1,2 +1,2 @@
 # HUTORI2PCURRENTAGENDA
-Our agenda.
+Our agenda: https://github.com/HUTORI2P/HUTORI2PCURRENTAGENDA/issues
